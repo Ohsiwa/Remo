@@ -1,0 +1,3 @@
+[20:40:31.7220] Application: Writing value '01' to Philips Hue Light On/Off Toggle Characteristic
+[20:40:31.7620] Normal: Wrote 01 to 932C32BD-0002-47A2-835A-A8D455B859DD Characteristic
+[20:40:31.7620] Application: Wrote '01' to Philips Hue Light On/Off Toggle Characteristic
